@@ -34,4 +34,5 @@ Docker et les scripts Bash (start.bash, stop.bash) mon uniquement servi à crée
 - Pour tester le projet en local, vous pouvez utiliser les scripts start.bash et stop.bash (nécessite Docker installé).
 - Ensuite, accédez au site via http://localhost:8080 dans votre navigateur.
 
-Auteur : Victor lauret
+Auteur : Vic
+Auteur du script bash: Ardou
