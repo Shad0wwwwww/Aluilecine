@@ -1,0 +1,10 @@
+1|Inception|Film|2010|3|Un chef-d'œuvre de science-fiction réalisé par Christopher Nolan.
+2|Breaking Bad|Série|2008|2|Une série culte avec une tension constante et des personnages profonds.
+3|The Room|Film|2003|1|Un désastre cinématographique devenu culte pour de mauvaises raisons.
+4|Stranger Things|Série|2016|3|Une bonne ambiance rétro et une intrigue mystérieuse.
+5|Titanic|Film|1997|3|Une romance dramatique sur fond de catastrophe historique.
+6|The Witcher|Série|2019|4|film exceptionnel qui retrace parfaitement l'histoire du livre
+7|The Mandalorian|Série|2019|3|Une série Star Wars visuellement impressionnante, avec un duo central attachant.
+8|Parasite|Film|2019|3|Un chef-d'œuvre coréen récompensé aux Oscars, à la fois critique sociale et thriller captivant.
+9|Emily in Paris|Série|2020|2|Une série légère et colorée, mais souvent stéréotypée dans sa vision de la France.
+10|Morbius|Film|2022|1|Un film confus et mal rythmé, malgré un potentiel initial intéressant.
